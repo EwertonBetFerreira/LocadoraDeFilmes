@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LocadoraDeFilmes", "LocadoraDeFilmes\LocadoraDeFilmes.csproj", "{1F0B98DB-A58C-43A4-AFD3-10B0967B6D5D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3. Data Layer", "3. Data Layer", "{F8972C39-528A-4E89-B0BB-3DDDE42B094D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLocadoraRepository", "VideoLocadoraRepository\VideoLocadoraRepository.csproj", "{30E7941D-995E-4E51-8DCD-97D2B3B6E59C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Distribuition Layer", "1. Distribuition Layer", "{20B95FCE-9E79-4EB2-B57B-01E9FECEF4C7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2. Bussiness Layer", "2. Bussiness Layer", "{ED607B19-90CF-483C-8DA5-AC09F7294DBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoLocadora.Domain", "VideoLocadora.Domain\VideoLocadora.Domain.csproj", "{8036AD6F-8038-46FC-829D-254233FEA3AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F0B98DB-A58C-43A4-AFD3-10B0967B6D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F0B98DB-A58C-43A4-AFD3-10B0967B6D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F0B98DB-A58C-43A4-AFD3-10B0967B6D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F0B98DB-A58C-43A4-AFD3-10B0967B6D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30E7941D-995E-4E51-8DCD-97D2B3B6E59C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30E7941D-995E-4E51-8DCD-97D2B3B6E59C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30E7941D-995E-4E51-8DCD-97D2B3B6E59C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30E7941D-995E-4E51-8DCD-97D2B3B6E59C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8036AD6F-8038-46FC-829D-254233FEA3AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8036AD6F-8038-46FC-829D-254233FEA3AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8036AD6F-8038-46FC-829D-254233FEA3AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8036AD6F-8038-46FC-829D-254233FEA3AC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1F0B98DB-A58C-43A4-AFD3-10B0967B6D5D} = {20B95FCE-9E79-4EB2-B57B-01E9FECEF4C7}
+		{30E7941D-995E-4E51-8DCD-97D2B3B6E59C} = {F8972C39-528A-4E89-B0BB-3DDDE42B094D}
+		{8036AD6F-8038-46FC-829D-254233FEA3AC} = {ED607B19-90CF-483C-8DA5-AC09F7294DBB}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F172DB7-8329-4588-A74A-B092CC5AFF56}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\bin\Debug\net5.0\VideoLocadora.Application.deps.json
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\bin\Debug\net5.0\VideoLocadora.Application.runtimeconfig.json
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\bin\Debug\net5.0\VideoLocadora.Application.runtimeconfig.dev.json
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\bin\Debug\net5.0\VideoLocadora.Application.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\bin\Debug\net5.0\ref\VideoLocadora.Application.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\bin\Debug\net5.0\VideoLocadora.Application.pdb
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.csproj.AssemblyReference.cache
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.AssemblyInfoInputs.cache
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.AssemblyInfo.cs
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.csproj.CoreCompileInputs.cache
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\ref\VideoLocadora.Application.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.pdb
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Application\obj\Debug\net5.0\VideoLocadora.Application.genruntimeconfig.cache

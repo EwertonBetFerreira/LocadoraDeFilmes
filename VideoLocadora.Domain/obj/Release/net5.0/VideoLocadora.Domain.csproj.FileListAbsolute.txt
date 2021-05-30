@@ -1,0 +1,15 @@
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\bin\Release\net5.0\VideoLocadora.Domain.deps.json
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\bin\Release\net5.0\VideoLocadora.Domain.runtimeconfig.json
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\bin\Release\net5.0\VideoLocadora.Domain.runtimeconfig.dev.json
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\bin\Release\net5.0\VideoLocadora.Domain.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\bin\Release\net5.0\ref\VideoLocadora.Domain.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\bin\Release\net5.0\VideoLocadora.Domain.pdb
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.csproj.AssemblyReference.cache
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.AssemblyInfoInputs.cache
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.AssemblyInfo.cs
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.csproj.CoreCompileInputs.cache
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\ref\VideoLocadora.Domain.dll
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.pdb
+C:\Projetos\LocadoraDeFilmes\VideoLocadora.Domain\obj\Release\net5.0\VideoLocadora.Domain.genruntimeconfig.cache

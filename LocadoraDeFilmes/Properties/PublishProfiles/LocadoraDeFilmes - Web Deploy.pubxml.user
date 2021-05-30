@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAHBNZlnuWH0OOp12pLF9HfgAAAAACAAAAAAAQZgAAAAEAACAAAACDH5RSmoxaq2OfNitpirGxWO93xyM/+VMy+rQgDAfA7AAAAAAOgAAAAAIAACAAAACyqsieS8wrl7FV4tqm0PyvPy8AWWNbkwlBAhw8xX+EJIAAAADVHVDiD8ABTtSiKK9ZXCtVCH1D5JjjbhAuMD+SkVl0K7LjRq01qWamusC0F3evPLNL5Eko53NfF5F6xDmZHIX/IXvYOO3KGKub4JDF0WSnq8K314qFIJrRPHgpwSuys6d1VprShbTb3z+vcuYI6hP7NRJEz8nTe0Q5ccvFPDGRe0AAAACVV/3ubUsmY2ZlU3PDqhHtmxbp7Wy5F80nLyaJaUN2Lb1+0Ayia2dfryXPXRvagOtGPnWlma8N1yEpfUx/Jm/n</EncryptedPassword>
+    <History>True|2021-05-30T22:13:41.1450876Z;False|2021-05-30T19:11:12.9190590-03:00;False|2021-05-30T19:09:52.3690045-03:00;False|2021-05-30T19:05:10.4919764-03:00;False|2021-05-30T19:03:53.5590821-03:00;True|2021-05-30T19:00:55.6088002-03:00;False|2021-05-30T18:57:02.0295762-03:00;True|2021-05-30T18:51:49.1701296-03:00;False|2021-05-30T18:50:51.6997586-03:00;True|2021-05-30T18:43:40.3492513-03:00;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="VideoLocadoraRepository.Features.Filmes.AppDbContext">
+      <Value>Data Source=tcp:ewerton.database.windows.net,1433%3bInitial Catalog=VideoLocadora%3bUser Id=ewertonbet%40ewerton%3bPassword=P%40ssw0rd</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
